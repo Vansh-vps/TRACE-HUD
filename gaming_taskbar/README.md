@@ -1,4 +1,4 @@
-# ⚡ TRACE HUD — Interactive Neon Gaming Taskbar Overlay
+#  TRACE HUD — Interactive Neon Gaming Taskbar Overlay
 
 <p align="center">
   <img src="../assets/banner_expanded.png" alt="TRACE HUD Banner" width="100%">
@@ -8,7 +8,7 @@ A sleek, translucent **Synthwave/Cyberpunk Neon** gaming taskbar overlay designe
 
 ---
 
-## 📸 Visual Showcase
+##  Visual Showcase
 
 ### 1. Expanded Mode (Full Telemetry)
 <p align="center">
@@ -27,7 +27,7 @@ A sleek, translucent **Synthwave/Cyberpunk Neon** gaming taskbar overlay designe
 
 ---
 
-## 🎮 Key Features
+##  Key Features
 
 - **Top-of-Screen Placement**: Docks cleanly at the top edge of your screen with a vibrant **Synthwave/Cyberpunk Neon** theme (`#8E1EA2`, `#C654C3`, `#ED96D7`, `#FFC0DE`) and outer neon bloom.
 - **CPU Telemetry**:
@@ -55,7 +55,7 @@ A sleek, translucent **Synthwave/Cyberpunk Neon** gaming taskbar overlay designe
 
 ---
 
-## 🚀 How to Launch
+##  How to Launch
 
 1. **Standard Launch (with console)**:
    Double-click `run_taskbar.bat`
@@ -64,7 +64,7 @@ A sleek, translucent **Synthwave/Cyberpunk Neon** gaming taskbar overlay designe
 
 ---
 
-## ⌨️ Global Hotkeys (Usable Inside Any Game)
+##  Global Hotkeys (Usable Inside Any Game)
 
 | Shortcut | Action |
 |---|---|
@@ -75,9 +75,12 @@ A sleek, translucent **Synthwave/Cyberpunk Neon** gaming taskbar overlay designe
 
 ---
 
-## ⚙️ Customization
+##  Customization
 
 Click the **⚙** gear button on the bar to:
 - Adjust opacity: **95% (Solid)**, **85% (Balanced)**, **65% (Translucent)**, **45% (Ghostly)**, or **Custom**.
 - Snap back to top edge.
 - Exit the HUD.
+
+
+## IF YOU FOUND ANY GLITCH IN IT, I WILL REALLY APPRECIATE IT IF YOU SHOOT AN EMAIL TO INFORMING ME.
