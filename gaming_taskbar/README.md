@@ -1,17 +1,35 @@
-# Trace Gaming Top Taskbar & HUD
+# ⚡ TRACE HUD — Interactive Neon Gaming Taskbar Overlay
 
-A high-performance, interactive, translucent gaming taskbar overlay designed specifically for laptops with dedicated GPUs (NVIDIA RTX 3050 & AMD Ryzen). Docks smoothly at the top of your screen to monitor system thermals and performance in real time while gaming.
+<p align="center">
+  <img src="../assets/banner_expanded.png" alt="TRACE HUD Banner" width="100%">
+</p>
+
+A sleek, translucent **Synthwave/Cyberpunk Neon** gaming taskbar overlay designed for Windows laptops with dedicated GPUs (NVIDIA RTX & AMD Ryzen). Docks seamlessly at the top edge of your screen to monitor hardware thermals and system performance in real time while gaming.
 
 ---
 
-##  Key Features
+## 📸 Visual Showcase
+
+### 1. Expanded Mode (Full Telemetry)
+<p align="center">
+  <img src="../assets/hud_expanded.jpg" alt="TRACE HUD Full Expanded Mode" width="100%">
+</p>
+
+### 2. Compact Mini-HUD Mode (`Ctrl + Shift + M`)
+<p align="center">
+  <img src="../assets/banner_compact.png" alt="TRACE HUD Compact Mode Close-up" width="60%">
+</p>
+
+### 3. Settings & Custom Opacity Menu
+<p align="center">
+  <img src="../assets/hud_settings.jpg" alt="Settings & Opacity Menu" width="100%">
+</p>
+
+---
+
+## 🎮 Key Features
 
 - **Top-of-Screen Placement**: Docks cleanly at the top edge of your screen with a vibrant **Synthwave/Cyberpunk Neon** theme (`#8E1EA2`, `#C654C3`, `#ED96D7`, `#FFC0DE`) and outer neon bloom.
-- **Neon Color Palette**:
-  - `#8E1EA2` : Deep Neon Purple base & bar gradient start
-  - `#C654C3` : Vivid Orchid / Magenta borders & bloom glow
-  - `#ED96D7` : Luminous Soft Pink values & accent lines
-  - `#FFC0DE` : Pastel Cotton Candy text, highlights & alert badge
 - **CPU Telemetry**:
   - Live CPU Utilization (`%`) with dynamic colored progress bar.
   - CPU Temperature (`°C`) with thermal safety coloring (Cool <70°C, Warm 70-84°C, Alert ≥85°C).
@@ -37,7 +55,7 @@ A high-performance, interactive, translucent gaming taskbar overlay designed spe
 
 ---
 
-##  How to Launch
+## 🚀 How to Launch
 
 1. **Standard Launch (with console)**:
    Double-click `run_taskbar.bat`
@@ -46,7 +64,7 @@ A high-performance, interactive, translucent gaming taskbar overlay designed spe
 
 ---
 
-## ⌨ Global Hotkeys (Usable Inside Any Game)
+## ⌨️ Global Hotkeys (Usable Inside Any Game)
 
 | Shortcut | Action |
 |---|---|
@@ -57,9 +75,9 @@ A high-performance, interactive, translucent gaming taskbar overlay designed spe
 
 ---
 
-## Customization
+## ⚙️ Customization
 
 Click the **⚙** gear button on the bar to:
-- Adjust opacity: **95% (Solid)**, **85% (Balanced)**, **65% (Translucent)**, **45% (Ghostly)**.
+- Adjust opacity: **95% (Solid)**, **85% (Balanced)**, **65% (Translucent)**, **45% (Ghostly)**, or **Custom**.
 - Snap back to top edge.
 - Exit the HUD.
