@@ -1,4 +1,4 @@
-# ⚡ TRACE HUD — Interactive Neon Gaming Taskbar Overlay
+# TRACE HUD — Interactive Neon Gaming Taskbar Overlay
 
 <p align="center">
   <img src="assets/banner_expanded.png" alt="TRACE HUD Banner" width="100%">
@@ -8,7 +8,7 @@ A sleek, translucent **Synthwave/Cyberpunk Neon** gaming taskbar overlay designe
 
 ---
 
-## 📸 Visual Showcase
+## Visual Showcase
 
 ### 1. Expanded Mode (Full Telemetry)
 Complete real-time monitoring including CPU clock, temperature & utilization bars, dedicated NVIDIA GPU diode temperature via direct NVML, VRAM consumption, wattage power draw, and RAM usage.
@@ -45,9 +45,9 @@ Click the gear icon (**`⚙`**) to open the neon configuration dropdown:
 
 ---
 
-## 🎮 Key Features
+## Key Features
 
-- **Top-of-Screen Dock**: Docks cleanly at the top of your screen with an outer neon bloom and translucent dark-glass aesthetic.
+- **Top-of-Screen Dock**: Sits cleanly at the top of your screen with an outer neon bloom and translucent dark-glass aesthetic.
 - **Cyberpunk Neon Palette**:
   - `#8E1EA2` : Deep Neon Purple
   - `#C654C3` : Vivid Orchid / Magenta
@@ -57,9 +57,9 @@ Click the gear icon (**`⚙`**) to open the neon configuration dropdown:
   - **CPU**: Live usage %, core temperature (°C) with thermal alerts, clock frequency (GHz), and dynamic load bar.
   - **GPU**: Dedicated NVIDIA GPU utilization %, direct hardware core diode temp (°C) via NVML, VRAM consumption (e.g. `1.2 / 4.0 GB`), and real-time wattage (`W`).
   - **RAM**: Consumed vs. total system memory (`GB` & `%`).
-- **👻 Ghost Mode (Click-Through for Gamers)**:
+- **Ghost Mode (Click-Through for Gamers)**:
   - Press **`Ctrl + Shift + G`** or click the ghost icon to let all mouse clicks pass straight through the bar into your game.
-- **⤢ Compact Mini-HUD**:
+- **Compact Mini-HUD**:
   - Press **`Ctrl + Shift + M`** or click **⤢** to shrink into an ultra-slim, distraction-free floating pill.
 - **Interactive Drag-Dot Opacity Slider**:
   - Access **Settings (`⚙`) $\rightarrow$ Translucency / Opacity $\rightarrow$ Custom** to drag the anti-aliased circular dot and set any opacity between 20% and 100% with live preview.
@@ -68,7 +68,7 @@ Click the gear icon (**`⚙`**) to open the neon configuration dropdown:
 
 ---
 
-## ⌨️ In-Game Global Hotkeys
+## In-Game Global Hotkeys
 
 | Shortcut | Action |
 |---|---|
@@ -79,7 +79,7 @@ Click the gear icon (**`⚙`**) to open the neon configuration dropdown:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Windows 10 / 11
@@ -98,7 +98,7 @@ pip install PySide6 pynput
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 TRACE-HUD/
@@ -122,5 +122,5 @@ TRACE-HUD/
 
 ---
 
-## 📜 License
+## License
 MIT License. Free to use and customize!
