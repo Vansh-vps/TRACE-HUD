@@ -119,7 +119,9 @@ TRACE-HUD/
 ├── .gitignore
 └── README.md
 ```
-
+<br>
+### IF YOU FOUND ANY GLITCH IN IT, I WILL REALLY APPRECIATE IF YOU SHOOT AN EMAIL TO INFORMING ME.
+<br>
 ---
 
 ## License
