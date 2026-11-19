@@ -1,10 +1,10 @@
-# ⚡ TRACE HUD — Interactive Neon Gaming Taskbar Overlay
+# TRACE HUD — Interactive Neon Gaming Taskbar Overlay
 
 A sleek, translucent **Synthwave/Cyberpunk Neon** gaming taskbar overlay designed for Windows laptops with dedicated GPUs (NVIDIA RTX & AMD Ryzen). Docks seamlessly at the top edge of your screen to monitor hardware thermals and system performance in real time while gaming.
 
 ---
 
-## 🎮 Key Features
+##  Key Features
 
 - **Top-of-Screen Dock**: Sits cleanly at the top of your screen with an outer neon bloom and translucent dark-glass aesthetic.
 - **Cyberpunk Neon Palette**:
@@ -27,7 +27,7 @@ A sleek, translucent **Synthwave/Cyberpunk Neon** gaming taskbar overlay designe
 
 ---
 
-## ⌨️ In-Game Global Hotkeys
+##  In-Game Global Hotkeys
 
 | Shortcut | Action |
 |---|---|
@@ -38,7 +38,7 @@ A sleek, translucent **Synthwave/Cyberpunk Neon** gaming taskbar overlay designe
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Windows 10 / 11
@@ -53,7 +53,7 @@ A sleek, translucent **Synthwave/Cyberpunk Neon** gaming taskbar overlay designe
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 TRACE-HUD/
@@ -71,5 +71,5 @@ TRACE-HUD/
 
 ---
 
-## 📜 License
+##  License
 MIT License. Free to use and customize!
